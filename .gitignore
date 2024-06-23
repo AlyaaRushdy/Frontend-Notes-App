@@ -4,5 +4,5 @@
 
 .vscode
 /Starter
-/node_modules/
+# /node_modules/
 /drafts
